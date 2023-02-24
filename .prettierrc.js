@@ -1,6 +1,6 @@
 'use strict';
 
-const {esNextPaths} = require('./scripts/shared/pathsByLanguageVersion');
+const {esNextPaths} = require('./scripts/shared/pathsByLanguageVersion'); bla bla
 
 module.exports = {
   bracketSpacing: false,
